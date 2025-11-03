@@ -1,7 +1,3 @@
-Perfect 🔥 You’re doing a **Vehicle Number Plate Detection** project — nice choice!
-Here’s a professional, **ready-to-upload README.md** file for your GitHub repository.
-You can copy-paste it as `README.md` and just update your name, dataset link, and repo link if needed.
-
 ---
 
 # 🚘 Vehicle Number Plate Detection using OpenCV & EasyOCR
