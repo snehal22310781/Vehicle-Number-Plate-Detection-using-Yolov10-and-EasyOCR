@@ -107,8 +107,3 @@ python main.py
 
 ---
 
-
-
-
-Would you like me to include a **small project abstract paragraph (for your college report)** — around 6-8 lines summarizing this project formally?
-
